@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.1",
+    "nodemon": "^1.18.11",
+    "pg": "^7.9.0"
+  },
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  }
+}

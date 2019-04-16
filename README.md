@@ -1,1 +1,0 @@
-# exercise-db-graphql-mutations
